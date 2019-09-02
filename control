@@ -1,0 +1,9 @@
+Package: com.ikilledappl3.nobigtitleszebra
+Name: NoBigTitlesZebra
+Depends: mobilesubstrate, xyz.willy.zebra, firmware(>=11.0)
+Version: 1.0-1
+Architecture: iphoneos-arm
+Description: Remove the big tiles in the navigation bar for Zebra.
+Maintainer: iKilledAppl3 <ipodnewbee234@icloud.com>
+Author: iKilledAppl3 <ipodnewbee234@icloud.com>
+Section: Tweaks
