@@ -1,3 +1,8 @@
+// Created on September 2, 2019 at 3:25 am by iKilledAppl3.
+//If you use any code please credit me or donate!
+// Anyways have fun! and God bless!
+// mtac8 please "steal" this for Okapi!
+
 #import <UIKit/UIKit.h>
 
 %hook UINavigationBar
