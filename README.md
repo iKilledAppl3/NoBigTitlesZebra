@@ -10,7 +10,7 @@ Removes the large titles in the navigation bar for Zebra
 
 ## Acknowledgments
 
-* Thanks mtac8 for inspiring me to modify Zebra (even though it's open-sourced):)
+* Thanks mtac8 for inspiring me to modify Zebra (even though it's open-sourced) :)
 
 ## License
 
